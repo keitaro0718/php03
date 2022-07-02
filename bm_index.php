@@ -13,6 +13,8 @@
   <nav class="navbar navbar-default">
     <div class="container-fluid">
     <div class="navbar-header"><a class="navbar-brand" href="bm_select.php">ブックマークはこちら</a></div>
+    <div class="navbar-header"><a class="navbar-brand" href="bm_login.php">ブックマークはこちら</a></div>
+    <div class="navbar-header"><a class="navbar-brand" href="bm_logout.php">ブックマークはこちら</a></div>
     </div>
   </nav>
 </header>
